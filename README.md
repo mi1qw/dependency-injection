@@ -1,6 +1,6 @@
 ## Grabber Java [Job4j.ru](http://Job4j.ru)
 ### DI. Внедрение зависимостей
-Примеры Запуска Spring DI
+Примеры запуска Spring DI
 
 1. DI без Spring
 2. Сканирование проекта
